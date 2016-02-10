@@ -1,2 +1,2 @@
-The current date is: 10/02/2016 
+current date is: 10/02/2016 
  
